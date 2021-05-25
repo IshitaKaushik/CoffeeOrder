@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">CoffeeOrder</string>
+    <string name="Name">Nombre</string>
+    <string name="Toppings">Ingredientes</string>
+    <string name="WhippedCream">Crema batida</string>
+    <string name="order">Ordenar</string>
+    <string name="orderName">Nombre: <xliff:h id="name" example="Amy">%s</xliff:h></string>
+</resources>

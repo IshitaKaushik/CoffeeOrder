@@ -1,0 +1,19 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">CoffeeOrder</string>
+    <string name="WhippedCream">Whipped Cream</string>
+    <string name="Chocolate" translatable="false">Chocolate</string>
+    <string name="Address" translatable="false">Address</string>
+    <string name="Name">Name</string>
+    <string name="thank" translatable="false">Thankyou</string>
+    <string name="Coffee" translatable="false">Coffee</string>
+    <string name="Cookie" translatable="false">Cookie</string>
+    <string name="whippedC" translatable="false">"with Whipped Cream and Chocolate topping: "</string>
+    <string name="choco" translatable="false"> "with Chocolate topping: "</string>
+    <string name="whipped" translatable="false">"with Whipped Cream topping: "</string>
+    <string name="order">Order</string>
+    <string name="total" translatable="false">"Total is $"</string>
+    <string name="Toppings">Toppings</string>
+    <string name="orderName">Name: <xliff:h id="name" example="Isha" >%s</xliff:h> </string>
+    <string name="address" translatable="false">Address: <xliff:h id="address" >%s</xliff:h></string>
+
+</resources>
